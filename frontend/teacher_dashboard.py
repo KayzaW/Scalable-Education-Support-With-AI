@@ -1,14 +1,17 @@
-from PyQt5.QtWidgets import QWidget, QVBoxLayout, QLabel
+from PyQt5.QtWidgets import QWidget, QVBoxLayout, QLabel, QPushButton
 
-class TeacherDashboard(QWidget):
-    def __init__(self, parent):
-        super().__init__(parent)
-
+class TeacherPage(QWidget):
+    def __init__(self, parent=None):
+        super(TeacherPage, self).__init__(parent)
         self.layout = QVBoxLayout()
 
-        self.label = QLabel("Teacher Dashboard")
-        self.layout.addWidget(self.label)
+        self.welcome_label = QLabel("Welcome, Teacher!")
+        self.layout.addWidget(self.welcome_label)
 
-        # Add more widgets for the teacher dashboard as needed
+        self.view_students_button = QPushButton("View Students")
+        self.layout.addWidget(self.view_students_button)
+
+        self.view_performance_button = QPushButton("View Class Performance")
+        self.layout.addWidget(self.view_performance_button)
 
         self.setLayout(self.layout)

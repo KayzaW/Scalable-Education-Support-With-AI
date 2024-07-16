@@ -1,8 +1,8 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QStackedWidget
-from frontend.login import LoginWindow
+from frontend.log_in import LoginWindow
 from frontend.student_dashboard import StudentDashboard
-from frontend.teacher_dashboard import TeacherDashboard
+from frontend.teacher_dashboard import TeacherPage
 
 class MainApp(QMainWindow):
     def __init__(self):
@@ -15,7 +15,7 @@ class MainApp(QMainWindow):
 
         self.login_window = LoginWindow(self)
         self.student_dashboard = StudentDashboard(self)
-        self.teacher_dashboard = TeacherDashboard(self)
+        self.teacher_dashboard = TeacherPage(self)
 
         self.stack.addWidget(self.login_window)
         self.stack.addWidget(self.student_dashboard)
