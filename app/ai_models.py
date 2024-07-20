@@ -1,10 +1,12 @@
-from transformers import pipeline
+from transformers import pipeline, RagTokenizer, RagRetriever, RagTokenForGeneration, TrainingArguments, Trainer
+import pandas as pd
+from datasets import Dataset
 
 # Initialize Hugging Face pipelines
-classifier = pipeline('text-classification', model='textattack/bert-base-uncased-MRPC')
-text_generator = pipeline('text-generation', model='gpt-2')
-feedback_generator = pipeline('summarization', model='facebook/bart-large-cnn')
-weakness_identifier = pipeline('question-answering', model='deepset/roberta-base-squad2')
+classifier = pipeline('text-classification', model='./models/bert-base-uncased-MRPC')
+text_generator = pipeline('text-generation', model='./models/gpt2')
+feedback_generator = pipeline('summarization', model='./models/bart-large-cnn')
+weakness_identifier = pipeline('question-answering', model='./models/roberta-base-squad2')
 
 def grade_assignment(text):
     results = classifier(text)
