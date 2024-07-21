@@ -1,27 +1,46 @@
 from transformers import pipeline, RagTokenizer, RagRetriever, RagTokenForGeneration, TrainingArguments, Trainer
 import pandas as pd
 from datasets import Dataset
+import os
+
+# Get the absolute path to the models directory
+base_dir = os.path.dirname(os.path.abspath(__file__))
+models_dir = os.path.join(base_dir, '../models')
+uploads_dir = os.path.join(base_dir, '../uploads')
 
 # Initialize Hugging Face pipelines
-classifier = pipeline('text-classification', model='./models/bert-base-uncased-MRPC')
-text_generator = pipeline('text-generation', model='./models/gpt2')
-feedback_generator = pipeline('summarization', model='./models/bart-large-cnn')
-weakness_identifier = pipeline('question-answering', model='./models/roberta-base-squad2')
+classifier = pipeline('text-classification', model=os.path.join(models_dir, 'bert-base-uncased-MRPC'))
+text_generator = pipeline('text-generation', model=os.path.join(models_dir, 'gpt2'))
+feedback_generator = pipeline('summarization', model=os.path.join(models_dir, 'bart-large-cnn'))
+weakness_identifier = pipeline('question-answering', model=os.path.join(models_dir, 'roberta-base-squad2'))
+
+def load_additional_context():
+    context = ""
+    for filename in os.listdir(uploads_dir):
+        if filename.endswith(".txt"):
+            with open(os.path.join(uploads_dir, filename), 'r', encoding='utf-8') as file:
+                context += file.read() + "\n"
+    return context
+
+additional_context = load_additional_context()
 
 def grade_assignment(text):
     results = classifier(text)
     return results
 
 def generate_exercise(prompt):
-    results = text_generator(prompt, max_length=100, num_return_sequences=1)
+    combined_prompt = additional_context + "\n" + prompt
+    results = text_generator(combined_prompt, max_length=100, num_return_sequences=1)
     return results[0]['generated_text']
 
 def generate_feedback(text):
-    results = feedback_generator(text, max_length=100)
+    combined_text = additional_context + "\n" + text
+    results = feedback_generator(combined_text, max_length=100)
     return results[0]['summary_text']
 
 def identify_weaknesses(text, question):
-    results = weakness_identifier(question=question, context=text)
+    combined_text = additional_context + "\n" + text
+    results = weakness_identifier(question=question, context=combined_text)
     return results['answer']
 
 def train_rag_model(dataset_path):
@@ -40,7 +59,7 @@ def train_rag_model(dataset_path):
     def tokenize_function(examples):
         inputs = tokenizer(examples['question'], return_tensors="pt", padding=True, truncation=True)
         with tokenizer.as_target_tokenizer():
-            labels = tokenizer(examples['context'], return_tensors="pt", padding=True, truncation=True)
+            labels = tokenizer(examples['answer'], return_tensors="pt", padding=True, truncation=True)
         inputs["labels"] = labels["input_ids"]
         return inputs
 
