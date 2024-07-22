@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "subject": "English",
+      "paragraphs": [
+        {
+          "context": "In Shakespeare's play Macbeth, the title character receives a prophecy from three witches that one day he will become king of Scotland. Driven by ambition and spurred to action by his wife, Macbeth murders King Duncan and takes the throne for himself.",
+          "questions": [
+            "What prophecy do the witches give Macbeth?",
+            "How does Macbeth become king of Scotland?",
+            "Who encourages Macbeth to murder King Duncan?",
+            "What role do the witches play in Macbeth’s decision to become king?",
+            "How does Macbeth's ambition influence his actions?",
+            "What are the consequences of Macbeth's decision to murder King Duncan?",
+            "How is Lady Macbeth's character important to the plot?",
+            "What does Macbeth's reaction to the witches' prophecy reveal about his character?",
+            "What themes are introduced in the opening scene of Macbeth?",
+            "How does Macbeth's character change throughout the play?",
+            "Why does Macbeth decide to kill King Duncan despite his initial hesitation?",
+            "How does Shakespeare use foreshadowing in Macbeth?",
+            "What impact do the witches' prophecies have on Macbeth's actions?"
+          ]
+        },
+        {
+          "context": "In Act 2 of Macbeth, Macbeth struggles with his guilt and paranoia after murdering King Duncan. He begins to hear and see things that aren’t there, such as a dagger leading him to Duncan’s chamber and later, Banquo’s ghost at a banquet. These hallucinations reflect his deepening madness.",
+          "questions": [
+            "What hallucinations does Macbeth experience after killing Duncan?",
+            "How do Macbeth's hallucinations reflect his mental state?",
+            "What is the significance of the dagger that Macbeth sees?",
+            "Why does Macbeth see Banquo’s ghost at the banquet?",
+            "How does Shakespeare use supernatural elements to portray Macbeth's guilt?",
+            "What is the impact of Macbeth's paranoia on his reign as king?",
+            "How do Macbeth's actions lead to his psychological breakdown?",
+            "What does the appearance of Banquo's ghost symbolize?",
+            "How does the theme of madness manifest in Act 2 of Macbeth?",
+            "What role do visions and hallucinations play in Macbeth’s downfall?",
+            "What does Macbeth's vision of the dagger signify?",
+            "How does Lady Macbeth react to Macbeth’s hallucinations?"
+          ]
+        },
+        {
+          "context": "Lady Macbeth is a key character in Shakespeare's play. She is strong-willed, ambitious, and manipulative. She plays a significant role in convincing Macbeth to commit regicide and seize the throne. Her famous soliloquy, where she calls on spirits to 'unsex' her, reveals her desire to be rid of any feminine weakness.",
+          "questions": [
+            "How does Lady Macbeth influence Macbeth's actions?",
+            "What is the significance of Lady Macbeth's soliloquy in Act 1?",
+            "How does Lady Macbeth's character evolve throughout the play?",
+            "What does Lady Macbeth's desire to be 'unsexed' reveal about her character?",
+            "How does Lady Macbeth's ambition contribute to the plot?",
+            "In what ways does Lady Macbeth's character contrast with Macbeth's?",
+            "What is the relationship between power and guilt in Lady Macbeth's character arc?",
+            "How does Lady Macbeth's manipulation affect Macbeth?",
+            "What does Lady Macbeth symbolize in the play?",
+            "What is the significance of Lady Macbeth’s sleepwalking scene?",
+            "How does Lady Macbeth's guilt manifest differently from Macbeth's?",
+            "Why does Lady Macbeth feel it necessary to 'unsex' herself?",
+            "What motivates Lady Macbeth's ruthless behavior?"
+          ]
+        },
+        {
+          "context": "The theme of fate versus free will is central to Macbeth. The witches’ prophecies suggest a predetermined fate for Macbeth, yet his actions are driven by his own choices. This tension between destiny and autonomy is explored through Macbeth's decisions and the consequences of those decisions.",
+          "questions": [
+            "How does the theme of fate versus free will manifest in Macbeth?",
+            "Do the witches control Macbeth’s fate, or does he have free will?",
+            "What role do the witches' prophecies play in shaping Macbeth's actions?",
+            "How does Macbeth’s belief in fate affect his decisions?",
+            "What is the significance of the theme of fate versus free will in the play?",
+            "How does Shakespeare explore the conflict between destiny and choice in Macbeth?",
+            "What are the consequences of Macbeth's reliance on the witches' prophecies?",
+            "How does Macbeth's perception of fate change throughout the play?",
+            "What evidence suggests that Macbeth is responsible for his own downfall?",
+            "What does the play suggest about the power of prophecy versus human action?",
+            "How does the concept of fate versus free will drive the narrative of Macbeth?",
+            "What examples from the play illustrate the struggle between destiny and autonomy?",
+            "How does the theme of fate versus free will influence other characters in Macbeth?"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "English",
+      "paragraphs": [
+        {
+          "context": "In Shakespeare's Macbeth, the protagonist faces intense moral dilemmas after receiving a prophecy from three witches, which predicts his rise to power. Initially conflicted, Macbeth's ambition, spurred by his wife, drives him to murder King Duncan. Despite his rise to power, guilt and paranoia plague Macbeth, leading to further heinous acts and ultimately, his downfall. His story is one of ambition and the consequences of moral corruption.",
+          "questions": [
+            "How does the prophecy influence Macbeth's actions throughout the play?",
+            "What role does Lady Macbeth play in convincing Macbeth to murder King Duncan?",
+            "How does Macbeth’s character change after he becomes king?",
+            "How is guilt portrayed through Macbeth's hallucinations and actions after Duncan's murder?",
+            "What is the significance of Macbeth’s interactions with the witches?",
+            "How does the theme of ambition contribute to Macbeth’s downfall?"
+          ]
+        },
+        {
+          "context": "Lady Macbeth is initially portrayed as ambitious and manipulative, urging Macbeth to commit regicide. However, her dominance over Macbeth wanes as he descends deeper into paranoia and guilt. Lady Macbeth's own guilt manifests through sleepwalking and hallucinations, highlighting the psychological toll of their actions. Her eventual demise reflects the tragic consequences of unchecked ambition and moral compromise.",
+          "questions": [
+            "How does Shakespeare present Lady Macbeth as the dominant partner in her relationship with Macbeth?",
+            "What does Lady Macbeth’s guilt and sleepwalking scene reveal about her character?",
+            "How does Lady Macbeth's character change from the beginning to the end of the play?",
+            "What does the phrase 'Out, damned spot!' symbolize in the context of Lady Macbeth’s guilt?",
+            "In what ways does Lady Macbeth’s ambition influence her husband’s actions?"
+          ]
+        },
+        {
+          "context": "The witches, or weird sisters, in Macbeth represent the supernatural and play a crucial role in influencing the protagonist's actions. They symbolize fate and chaos, introducing ambiguity through their prophecies. Their interaction with Macbeth sparks his ambition, and their cryptic predictions continue to shape his decisions throughout the play.",
+          "questions": [
+            "What role do the witches play in Macbeth’s fate?",
+            "How do the witches' prophecies affect Macbeth’s decisions?",
+            "What is the significance of the witches’ chant 'Fair is foul, and foul is fair'?",
+            "How does Shakespeare use the witches to explore the theme of fate versus free will in Macbeth?",
+            "In what ways do the witches contribute to Macbeth’s downfall?"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Mathematics",
+      "paragraphs": [
+        {
+          "context": "In a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides. This is known as the Pythagorean theorem.",
+          "questions": [
+            "What does the Pythagorean theorem state?",
+            "How do you calculate the length of the hypotenuse in a right-angled triangle?",
+            "What are the two shorter sides of a right-angled triangle called in relation to the hypotenuse?",
+            "Can the Pythagorean theorem be used in all types of triangles?",
+            "How do you use the Pythagorean theorem to solve real-world problems?",
+            "What is an example of the Pythagorean theorem in everyday life?",
+            "How does the Pythagorean theorem apply to three-dimensional geometry?",
+            "What are some common mistakes when using the Pythagorean theorem?"
+          ]
+        },
+        {
+          "context": "To solve a quadratic equation of the form ax^2 + bx + c = 0, you can use the quadratic formula: x = (-b ± √(b²-4ac)) / 2a.",
+          "questions": [
+            "What formula is used to solve quadratic equations?",
+            "How do you find the roots of the equation ax^2 + bx + c = 0?",
+            "What does the symbol '±' indicate in the quadratic formula?",
+            "What does the term 'b²-4ac' represent in the quadratic formula?",
+            "How do you derive the quadratic formula from completing the square?",
+            "What is the significance of the discriminant in the quadratic formula?",
+            "How does the quadratic formula help in finding complex roots?",
+            "What are some practical applications of solving quadratic equations?"
+          ]
+        },
+        {
+          "context": "In mathematics, the order of operations is a rule used to clarify which procedures should be performed first in a given mathematical expression. The acronym PEMDAS stands for Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction.",
+          "questions": [
+            "What does PEMDAS stand for in mathematics?",
+            "Why is the order of operations important in solving mathematical expressions?",
+            "Which operations are performed first according to PEMDAS?",
+            "How does following the order of operations affect the outcome of an expression?",
+            "What is an example of using the order of operations in a complex calculation?",
+            "How can misunderstanding the order of operations lead to incorrect answers?",
+            "How does the order of operations apply to real-world scenarios?",
+            "What are some common errors when applying the order of operations?"
+          ]
+        },
+        {
+          "context": "A linear equation is an algebraic equation in which each term is either a constant or the product of a constant and a single variable. Linear equations can be written in the form y = mx + b, where m is the slope and b is the y-intercept.",
+          "questions": [
+            "What is a linear equation?",
+            "How can you identify the slope and y-intercept in a linear equation?",
+            "What is the standard form of a linear equation?",
+            "How do you graph a linear equation on a coordinate plane?",
+            "What are the characteristics of a linear function?",
+            "How do linear equations relate to real-world situations?",
+            "What is the difference between a linear and a nonlinear equation?",
+            "How do you solve a system of linear equations?"
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Science",
+      "paragraphs": [
+        {
+          "context": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy in the form of glucose. This process takes place in the chloroplasts of cells.",
+          "questions": [
+            "What is photosynthesis?",
+            "Which organisms can perform photosynthesis?",
+            "Where does photosynthesis occur within a cell?",
+            "What is the primary purpose of photosynthesis?",
+            "How does photosynthesis contribute to the carbon cycle?",
+            "What role do chlorophyll molecules play in photosynthesis?",
+            "What are the two main stages of photosynthesis?",
+            "How is oxygen produced during photosynthesis?"
+          ]
+        },
+        {
+          "context": "Newton's First Law of Motion states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force.",
+          "questions": [
+            "What does Newton's First Law of Motion state?",
+            "What condition does an object remain in according to Newton's First Law?",
+            "What can change the state of motion of an object according to Newton's First Law?",
+            "How is Newton's First Law of Motion also known?",
+            "How does Newton's First Law apply to everyday situations?",
+            "What is an example of Newton's First Law in action?",
+            "How do inertia and mass relate to Newton's First Law?",
+            "How does Newton's First Law explain the behavior of objects in space?"
+          ]
+        },
+        {
+          "context": "The water cycle describes the continuous movement of water on, above, and below the surface of the Earth. It involves processes like evaporation, condensation, precipitation, and runoff.",
+          "questions": [
+            "What is the water cycle?",
+            "What processes are involved in the water cycle?",
+            "How does evaporation contribute to the water cycle?",
+            "What happens to water during condensation in the water cycle?",
+            "How does the water cycle affect climate and weather?",
+            "What role does the sun play in the water cycle?",
+            "How do humans impact the water cycle?",
+            "What is the importance of groundwater in the water cycle?"
+          ]
+        },
+        {
+          "context": "Atoms are the basic building blocks of matter. They are composed of three types of particles: protons, neutrons, and electrons. Protons have a positive charge, electrons have a negative charge, and neutrons have no charge.",
+          "questions": [
+            "What are atoms?",
+            "What are the three types of particles that make up an atom?",
+            "What is the charge of a proton?",
+            "How do electrons differ from protons in terms of charge?",
+            "What is the role of neutrons in the nucleus of an atom?",
+            "How do atoms combine to form molecules?",
+            "What is an ion, and how is it formed?",
+            "How do atomic numbers and mass numbers differ?"
+          ]
+        }
+      ]
+    }
+  ]
+}

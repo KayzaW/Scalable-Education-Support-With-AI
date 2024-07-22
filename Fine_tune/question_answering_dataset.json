@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "subject": "English",
+      "paragraphs": [
+        {
+          "context": "In Act 1 Scene 3, the witches give Macbeth and Banquo their prophecies. Macbeth is told that he will become Thane of Cawdor and eventually King of Scotland, while Banquo is told that his descendants will inherit the throne, though he himself will not become king.",
+          "qas": [
+            {
+              "question": "What prophecy do the witches give Macbeth?",
+              "answers": [
+                {
+                  "text": "The witches tell Macbeth that he will become Thane of Cawdor and eventually King of Scotland.",
+                  "answer_start": 86
+                }
+              ]
+            },
+            {
+              "question": "What is Banquo's prophecy from the witches?",
+              "answers": [
+                {
+                  "text": "The witches tell Banquo that his descendants will be kings, though he will not be king himself.",
+                  "answer_start": 170
+                }
+              ]
+            },
+            {
+              "question": "How does Macbeth react to the witches’ prophecy?",
+              "answers": [
+                {
+                  "text": "Macbeth is initially skeptical, but after being named Thane of Cawdor, he becomes intrigued and consumed by the prophecy of becoming king.",
+                  "answer_start": 233
+                }
+              ]
+            },
+            {
+              "question": "What role do the witches play in influencing Macbeth’s actions?",
+              "answers": [
+                {
+                  "text": "The witches ignite Macbeth's ambition by foretelling his rise to power, which sets him on a path to fulfill their prophecy.",
+                  "answer_start": 150
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Banquo's prophecy?",
+              "answers": [
+                {
+                  "text": "Banquo's prophecy implies that while Macbeth will rise to power, it is Banquo's descendants who will inherit the throne, symbolizing Macbeth’s futile efforts to secure his legacy.",
+                  "answer_start": 160
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 2 of Macbeth, Macbeth struggles with his guilt and paranoia after murdering King Duncan. He begins to hear and see things that aren’t there, such as a dagger leading him to Duncan’s chamber and later, Banquo’s ghost at a banquet. These hallucinations reflect his deepening madness.",
+          "qas": [
+            {
+              "question": "What hallucinations does Macbeth experience after killing Duncan?",
+              "answers": [
+                {
+                  "text": "Macbeth sees a dagger leading him to Duncan’s chamber and later, Banquo’s ghost at a banquet.",
+                  "answer_start": 111
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of the dagger that Macbeth sees?",
+              "answers": [
+                {
+                  "text": "The dagger symbolizes Macbeth's guilt and his mental descent into madness.",
+                  "answer_start": 59
+                }
+              ]
+            },
+            {
+              "question": "Why does Macbeth see Banquo’s ghost at the banquet?",
+              "answers": [
+                {
+                  "text": "Banquo's ghost represents Macbeth's guilt and fear after ordering Banquo's murder.",
+                  "answer_start": 195
+                }
+              ]
+            },
+            {
+              "question": "How does Macbeth's guilt manifest after Duncan's murder?",
+              "answers": [
+                {
+                  "text": "Macbeth's guilt manifests through his hallucinations and increasing paranoia, especially in seeing visions like Banquo’s ghost.",
+                  "answer_start": 111
+                }
+              ]
+            },
+            {
+              "question": "What is the significance of Banquo's ghost appearing only to Macbeth?",
+              "answers": [
+                {
+                  "text": "The ghost's appearance signifies Macbeth's isolation and guilt, as no one else at the banquet can see the ghost, highlighting Macbeth’s internal torment.",
+                  "answer_start": 180
+                }
+              ]
+            },
+            {
+              "question": "What does Macbeth's vision of the dagger foreshadow?",
+              "answers": [
+                {
+                  "text": "The dagger foreshadows Macbeth's imminent murder of King Duncan and the violent path he is about to embark on.",
+                  "answer_start": 59
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 5, Lady Macbeth’s mental state deteriorates as she is consumed by guilt over the murders she helped orchestrate. She is seen sleepwalking and attempting to wash imagined bloodstains from her hands, lamenting the irreversible nature of her and Macbeth’s actions.",
+          "qas": [
+            {
+              "question": "What does Lady Macbeth try to do while sleepwalking?",
+              "answers": [
+                {
+                  "text": "Lady Macbeth tries to wash imagined bloodstains from her hands while sleepwalking, symbolizing her guilt.",
+                  "answer_start": 101
+                }
+              ]
+            },
+            {
+              "question": "What does Lady Macbeth’s sleepwalking reveal about her mental state?",
+              "answers": [
+                {
+                  "text": "Her sleepwalking reveals the deep guilt she feels, and the mental strain caused by her involvement in Duncan’s murder.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How does Lady Macbeth’s guilt manifest differently than Macbeth’s?",
+              "answers": [
+                {
+                  "text": "Lady Macbeth's guilt is manifested in her sleepwalking and obsessive attempts to clean her hands, whereas Macbeth's guilt leads to paranoia and hallucinations.",
+                  "answer_start": 101
+                }
+              ]
+            },
+            {
+              "question": "What is the symbolic meaning of Lady Macbeth’s imagined bloodstains?",
+              "answers": [
+                {
+                  "text": "The bloodstains symbolize her guilt and the permanent moral corruption she feels from the murders she and Macbeth have committed.",
+                  "answer_start": 101
+                }
+              ]
+            },
+            {
+              "question": "How does Lady Macbeth’s mental breakdown contribute to the play’s resolution?",
+              "answers": [
+                {
+                  "text": "Lady Macbeth's mental breakdown and death contribute to Macbeth's isolation, leaving him vulnerable and symbolizing the collapse of their power.",
+                  "answer_start": 78
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Macbeth’s character undergoes significant transformation throughout the play. Initially, he is portrayed as a valiant soldier loyal to King Duncan. However, after the witches’ prophecies and his wife’s encouragement, Macbeth’s ambition drives him to murder and tyranny. His descent into madness and moral corruption ultimately leads to his downfall.",
+          "qas": [
+            {
+              "question": "How does Macbeth’s character change throughout the play?",
+              "answers": [
+                {
+                  "text": "Macbeth changes from a loyal and brave soldier to a paranoid tyrant consumed by ambition and guilt.",
+                  "answer_start": 50
+                }
+              ]
+            },
+            {
+              "question": "What role does ambition play in Macbeth’s downfall?",
+              "answers": [
+                {
+                  "text": "Ambition drives Macbeth to murder Duncan and seize the throne, but it also leads to his moral corruption, paranoia, and eventual downfall.",
+                  "answer_start": 50
+                }
+              ]
+            },
+            {
+              "question": "How does Macbeth's relationship with Lady Macbeth change throughout the play?",
+              "answers": [
+                {
+                  "text": "At first, Macbeth is heavily influenced by Lady Macbeth, but as the play progresses, he becomes more independent and consumed by his own ambition, leading to a growing distance between them.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "How does Macbeth’s moral corruption manifest?",
+              "answers": [
+                {
+                  "text": "Macbeth’s moral corruption is shown through his willingness to murder anyone who stands in his way, including Duncan, Banquo, and Macduff’s family.",
+                  "answer_start": 50
+                }
+              ]
+            },
+            {
+              "question": "How does Macbeth react to the witches' final prophecy about his downfall?",
+              "answers": [
+                {
+                  "text": "Macbeth initially feels invincible due to the witches' ambiguous prophecies, but he becomes increasingly paranoid as the prophecies begin to come true.",
+                  "answer_start": 50
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 1 Scene 7, Macbeth debates whether he should kill King Duncan. His ambition pushes him towards the murder, but he also grapples with the consequences of his actions. Lady Macbeth challenges his masculinity, eventually convincing him to go through with the plan.",
+          "qas": [
+            {
+              "question": "Why does Macbeth hesitate to kill King Duncan?",
+              "answers": [
+                {
+                  "text": "Macbeth hesitates because he is Duncan's subject and host, and Duncan is a good and virtuous king. He fears the consequences of his actions.",
+                  "answer_start": 30
+                }
+              ]
+            },
+            {
+              "question": "How does Lady Macbeth convince Macbeth to murder Duncan?",
+              "answers": [
+                {
+                  "text": "Lady Macbeth questions Macbeth's courage and masculinity, accusing him of being a coward if he does not act on his ambition.",
+                  "answer_start": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 3, Banquo grows suspicious of Macbeth, believing that he may have played a role in Duncan’s murder. Banquo recalls the witches’ prophecy, which stated that his descendants would inherit the throne. This leads Macbeth to fear Banquo as a threat to his rule.",
+          "qas": [
+            {
+              "question": "What does Banquo suspect about Macbeth?",
+              "answers": [
+                {
+                  "text": "Banquo suspects that Macbeth has played a role in Duncan’s murder in order to fulfill the witches' prophecy and become king.",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "Why does Macbeth fear Banquo?",
+              "answers": [
+                {
+                  "text": "Macbeth fears Banquo because the witches prophesied that Banquo's descendants would inherit the throne, making him a threat to Macbeth's rule.",
+                  "answer_start": 90
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 4 Scene 1, Macbeth returns to the witches, seeking more prophecies to secure his reign. They provide him with cryptic messages, including that no man born of a woman will harm him and that he will be safe until Birnam Wood comes to Dunsinane Hill.",
+          "qas": [
+            {
+              "question": "What do the witches tell Macbeth in Act 4?",
+              "answers": [
+                {
+                  "text": "The witches tell Macbeth that no man born of a woman will harm him and that he will be safe until Birnam Wood comes to Dunsinane Hill.",
+                  "answer_start": 60
+                }
+              ]
+            },
+            {
+              "question": "How does Macbeth interpret the witches' new prophecies?",
+              "answers": [
+                {
+                  "text": "Macbeth interprets the prophecies to mean that he is invincible, as no one can move a forest and every man is born of a woman.",
+                  "answer_start": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 5 Scene 5, Macbeth learns of Lady Macbeth’s death. He expresses his despair, reflecting on the futility of life. His speech reveals that he now views life as meaningless, symbolized by the famous line, 'Tomorrow, and tomorrow, and tomorrow'.",
+          "qas": [
+            {
+              "question": "How does Macbeth react to Lady Macbeth's death?",
+              "answers": [
+                {
+                  "text": "Macbeth expresses a sense of hopelessness and the meaninglessness of life, saying 'Tomorrow, and tomorrow, and tomorrow'.",
+                  "answer_start": 70
+                }
+              ]
+            },
+            {
+              "question": "What does the 'Tomorrow, and tomorrow, and tomorrow' speech reveal about Macbeth's mental state?",
+              "answers": [
+                {
+                  "text": "The speech reveals that Macbeth has lost all hope and sees life as a series of meaningless events leading to inevitable death.",
+                  "answer_start": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Throughout the play, the theme of ambition drives both Macbeth and Lady Macbeth to commit heinous acts. Ambition leads them to their downfall as they become consumed by guilt and paranoia. The contrast between unchecked ambition and moral conscience is a central theme.",
+          "qas": [
+            {
+              "question": "How does ambition drive Macbeth's actions?",
+              "answers": [
+                {
+                  "text": "Ambition drives Macbeth to murder King Duncan and others, as he is determined to secure his position as king at any cost.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "question": "What role does ambition play in Lady Macbeth's character?",
+              "answers": [
+                {
+                  "text": "Lady Macbeth is driven by ambition and is the force behind Macbeth’s initial decision to kill Duncan, although her ambition ultimately leads to her mental breakdown.",
+                  "answer_start": 40
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "In Act 4 Scene 3, Macduff learns about the murder of his wife and children. His grief quickly turns into a desire for revenge, and he vows to confront Macbeth in battle to restore order to Scotland.",
+          "qas": [
+            {
+              "question": "How does Macduff react to the news of his family’s murder?",
+              "answers": [
+                {
+                  "text": "Macduff is devastated by the news of his family's murder, but his grief soon turns into a desire for revenge against Macbeth.",
+                  "answer_start": 20
+                }
+              ]
+            },
+            {
+              "question": "What motivates Macduff to confront Macbeth?",
+              "answers": [
+                {
+                  "text": "Macduff is motivated by the murder of his family and his desire to restore order to Scotland.",
+                  "answer_start": 80
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

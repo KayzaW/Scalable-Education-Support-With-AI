@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d274e351-9703-4e6c-bc09-602adc6d04c5" name="Changes" comment="backend flask">
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/generation_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/merges.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bart-large-cnn/vocab.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bert-base-uncased-MRPC/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bert-base-uncased-MRPC/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bert-base-uncased-MRPC/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bert-base-uncased-MRPC/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bert-base-uncased-MRPC/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/bert-base-uncased-MRPC/vocab.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/generation_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/merges.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/gpt2/vocab.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/merges.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/model.safetensors" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/special_tokens_map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/tokenizer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/tokenizer_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models/roberta-base-squad2/vocab.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/ai_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/ai_models.py" afterDir="false" />
-    </list>
+    <list default="true" id="d274e351-9703-4e6c-bc09-602adc6d04c5" name="Changes" comment="finalized design" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,19 +37,46 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests in QA_unit_test.py.executor": "Run",
+    "Python.BERT_training.executor": "Run",
+    "Python.ER.executor": "Run",
+    "Python.GPT-2_training.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.custom_dataset.executor": "Run",
+    "Python.database.executor": "Run",
     "Python.download_models.executor": "Run",
+    "Python.evaluations (1).executor": "Run",
+    "Python.evaluations.executor": "Run",
+    "Python.fine_tune _BERT.executor": "Run",
+    "Python.init_db.executor": "Run",
+    "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.populate_db.executor": "Run",
+    "Python.prepare_data.executor": "Run",
+    "Python.prepare_dataset.executor": "Run",
+    "Python.student_dashboard.executor": "Run",
+    "Python.test_model.executor": "Run",
+    "Python.testin.executor": "Run",
+    "Python.train_qa.executor": "Run",
+    "Python.train_qg.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kayza.warsame\Documents\GitHub\Scalable-Education-Support-With-AI\app" />
+      <recent name="C:\Users\kayza.warsame\Documents\GitHub\Scalable-Education-Support-With-AI" />
+      <recent name="C:\Users\kayza.warsame\Documents\GitHub\Scalable-Education-Support-With-AI\dataset" />
+      <recent name="C:\Users\kayza.warsame\Documents\GitHub\Scalable-Education-Support-With-AI\" />
       <recent name="C:\Users\kayza.warsame\Documents\GitHub\Scalable-Education-Support-With-AI\frontend" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.download_models">
-    <configuration name="download_models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.train_qg">
+    <configuration name="evaluations (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Scalable-Education-Support-With-AI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/download_models.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/evaluations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,10 +120,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="populate_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scalable-Education-Support-With-AI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/populate_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_qa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scalable-Education-Support-With-AI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fine_tune" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fine_tune/train_qa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_qg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scalable-Education-Support-With-AI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Fine_tune" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fine_tune/train_qg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.download_models" />
+        <item itemvalue="Python.train_qg" />
+        <item itemvalue="Python.train_qa" />
+        <item itemvalue="Python.evaluations (1)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.populate_db" />
       </list>
     </recent_temporary>
   </component>
@@ -179,14 +244,112 @@
       <option name="project" value="LOCAL" />
       <updated>1721448548247</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="backend flask">
+      <option name="closed" value="true" />
+      <created>1721613568953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721613568953</updated>
+    </task>
+    <task id="LOCAL-00006" summary="backend flask">
+      <option name="closed" value="true" />
+      <created>1721824039931</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721824039931</updated>
+    </task>
+    <task id="LOCAL-00007" summary="backend flask">
+      <option name="closed" value="true" />
+      <created>1722198170381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722198170381</updated>
+    </task>
+    <task id="LOCAL-00008" summary="backend flask">
+      <option name="closed" value="true" />
+      <created>1722261430463</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722261430463</updated>
+    </task>
+    <task id="LOCAL-00009" summary="backend flask">
+      <option name="closed" value="true" />
+      <created>1722707785890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722707785890</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update back and frontend">
+      <option name="closed" value="true" />
+      <created>1723031937552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1723031937552</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update back and frontend">
+      <option name="closed" value="true" />
+      <created>1723031988773</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723031988773</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update back and frontend">
+      <option name="closed" value="true" />
+      <created>1725150621853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725150621853</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finalized design">
+      <option name="closed" value="true" />
+      <created>1725819200741</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725819200741</updated>
+    </task>
+    <task id="LOCAL-00014" summary="finalized design">
+      <option name="closed" value="true" />
+      <created>1725890773213</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725890773213</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="Frontend pyQt" />
     <MESSAGE value="backend flask" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend flask" />
+    <MESSAGE value="update back and frontend" />
+    <MESSAGE value="finalize design" />
+    <MESSAGE value="changes to model&#10;&#10;changes" />
+    <MESSAGE value="finalized design" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalized design" />
   </component>
 </project>
